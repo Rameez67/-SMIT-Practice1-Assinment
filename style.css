@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+background-color: pink;
+width: 100%;
+height: 100vh;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+#para{
+    color: blue;
+}
+#para2{
+    color: blue;
+    font-size: 30px;
+    
+}
+.para1{
+    margin: 50px 2px;
+}
